@@ -24,3 +24,4 @@
       npm run dev
   ``` 
 - Application running URL: http://localhost:5173/
+- Application deployed URL: task-manager-steel-omega.vercel.app
